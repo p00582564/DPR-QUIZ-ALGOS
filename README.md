@@ -11,6 +11,6 @@ Algorithm Quiz 1
 
 
 Answers: 
- sheevpalpatine.java checks if the string is a palindrome ( a word or sequence of words that read the same backwards). 
+ sheevpalpatine.java checks if the string is a palindrome ( a word or sequence of words that read the same backwards). In sheevpalpatine.java the result is false. The string is not a palindrome.
  
  A seclection sort is always faster than a bubble sort
