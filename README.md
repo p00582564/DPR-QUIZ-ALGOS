@@ -7,3 +7,10 @@ Algorithm Quiz 1
   <li>Submit a binary search example by adding a file to this project after forking it. Be sure to explain how the example functions using comments or in this README.</li>
   <li>Is a selection sort or a bubble sort faster?</li>
  </ol>
+
+
+
+Answers: 
+ sheevpalpatine.java checks if the string is a palindrome ( a word or sequence of words that read the same backwards). 
+ 
+ A seclection sort is always faster than a bubble sort
